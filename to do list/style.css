@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 80px;
+    background-image: url(bg.jpg);
+   
+    }
+
+    .todo-container { width: 400px;
+        margin: 0 auto;
+        border: 1px solid #ccc;
+        padding: 20px;
+        border-radius: 5px;
+        background-color: rgb(37, 36, 36);
+        font-style: #ccc;
+        
+        
+    }
+
+    h1 {
+    margin-bottom: 20px;
+    color: #ccc;
+     }
+    
+    input {
+        width: 200px;
+        padding: 5px;
+        margin-right: 50px;
+        color: #ccc;
+     }
+    
+    button {
+        padding: 10px 20px;
+        cursor: pointer;
+        background-color: #66ecbbf5;
+        border: none;
+        border-radius: 5px;
+        display: inline-block;
+        }
+
+        button:hover {
+        background-color: #0e8d82;
+        }
+
+        ul {
+        list-style: none;
+        padding:50 50;
+        margin-top: 20px;
+        text-align: left;
+        color: #ccc;
+        }
+        
+        li {
+             margin-bottom: 10px;
+        }
+        
+       
+        
+        
